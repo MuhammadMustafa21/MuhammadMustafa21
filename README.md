@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mustafa</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 💻 Hosted 2 Virtual Hackathon Events: [ByteKode Hackathon](bytekode.org)
+- 💻 Hosted 2 Virtual Hackathon Events: [ByteKode Hackathon](https://bytekode.org)
 
 - 🌱 I’m currently learning **React, and C#**
 
